@@ -4,8 +4,9 @@ export default function Footer() {
   return (
     <div>
     
-    <footer>&copy; 2022</footer>;
+    <footer className='footer'>&copy; 2022</footer>;
     
     </div>
   )
 }
+
